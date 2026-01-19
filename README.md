@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-1f6feb?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Development-1f6feb?style=flat-square"/>
   <img src="https://img.shields.io/badge/Interest-Cyber%20Security-2ea44f?style=flat-square"/>
 </p>
 
