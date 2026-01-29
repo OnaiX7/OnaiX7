@@ -16,10 +16,11 @@
 
 ### 💻 Software Development
 - **Python** — OOP, Exception Handling, Clean Code
-- **C#** — OOP, Exception Handling, Clean Code
+- **C#** — OOP, Exception Handling, Clean Code, WinForms
 - **SAP ABAP** — ALV Reports, Dialog Programming, Factory Methods
 - **Algorithms & Data Structures** — Sorting, Trees, Graphs, Recursion
 - **Networking & IT Security** — TCP/IP, Sockets, Hashing, Cryptography
+-  **Java** - OOP, Exception Handling, Clean Code, JavaFX
 
 ### 📊 Business & Economics
 - **Operations Management** — Efficiency, Production Factors, Services
