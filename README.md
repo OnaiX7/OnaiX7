@@ -44,5 +44,5 @@
 ---
 
 ### Technical Stack 
-<p align="center"> <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,linux,github,vscode,obsidian,idea,pycharm" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,linux,github,vscode,obsidian,idea,pycharm,clion" /> </p>
 
